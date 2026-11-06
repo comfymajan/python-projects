@@ -19,7 +19,7 @@ A simple contact management application that allows users to store, search, and 
 A console-based quiz program that presents questions, receives user answers, and calculates the score.
 
 6. Rock Paper Scissors:
-A classic game where the user plays against the computer.
+A classic game where the user plays against the computer. It features random computer choices, tracking, draw counting, input validation, and replay functionality.
 
 7. Shopping List:
 A simple application for managing a shopping list.
